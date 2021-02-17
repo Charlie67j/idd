@@ -1,4 +1,4 @@
-# install_docker_debian
+# Install Docker for Debian
 
 This is a simple script to install the latest version of docker and docker-compose on a fresh Debian installation.
 
